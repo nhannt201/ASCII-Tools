@@ -1,0 +1,15 @@
+N:\VB.NET\ASCII Tools\ASCII Tools\bin\Debug\ASCII Tools.exe.config
+N:\VB.NET\ASCII Tools\ASCII Tools\bin\Debug\ASCII Tools.exe
+N:\VB.NET\ASCII Tools\ASCII Tools\bin\Debug\ASCII Tools.pdb
+N:\VB.NET\ASCII Tools\ASCII Tools\bin\Debug\ASCII Tools.xml
+N:\VB.NET\ASCII Tools\ASCII Tools\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+N:\VB.NET\ASCII Tools\ASCII Tools\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+N:\VB.NET\ASCII Tools\ASCII Tools\obj\Debug\ASCII_Tools.home.resources
+N:\VB.NET\ASCII Tools\ASCII Tools\obj\Debug\ASCII_Tools.Resources.resources
+N:\VB.NET\ASCII Tools\ASCII Tools\obj\Debug\ASCII_Tools.tools.resources
+N:\VB.NET\ASCII Tools\ASCII Tools\obj\Debug\ASCII Tools.vbproj.GenerateResource.Cache
+N:\VB.NET\ASCII Tools\ASCII Tools\obj\Debug\ASCII Tools.exe
+N:\VB.NET\ASCII Tools\ASCII Tools\obj\Debug\ASCII Tools.xml
+N:\VB.NET\ASCII Tools\ASCII Tools\obj\Debug\ASCII Tools.pdb
+N:\VB.NET\ASCII Tools\ASCII Tools\obj\Debug\ASCII_Tools.wait.resources
+N:\VB.NET\ASCII Tools\ASCII Tools\obj\Debug\ASCII Tools.vbprojResolveAssemblyReference.cache
